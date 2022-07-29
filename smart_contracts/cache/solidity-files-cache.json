@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/rehanganapathy/Desktop/DAO/smart_contracts/contracts/Dao.sol": {
+      "lastModificationDate": 1659101076052,
+      "contentHash": "0a8031da2aadb6696fbe4f5224bd1f82",
+      "sourceName": "contracts/Dao.sol",
+      "solcConfig": {
+        "version": "0.8.7",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": [
+        "Dao",
+        "IdaoContract"
+      ]
+    }
+  }
+}
